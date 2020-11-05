@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="306759df-477d-4e7a-99e1-edf89e7836aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cuarK6fQwopLGcUTt27NiDhNth" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowDuplicates.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.main (1)">
+    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="notepad.main" />
+      <module name="notepad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="notepad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="notatnik.main" />
+      <module name="notepad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="notepad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main (1)" />
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="306759df-477d-4e7a-99e1-edf89e7836aa" name="Default Changelist" comment="" />
+      <created>1591381129295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591381129295</updated>
+      <workItem from="1591381132508" duration="9215000" />
+      <workItem from="1591544630743" duration="12514000" />
+      <workItem from="1591725860507" duration="2124000" />
+      <workItem from="1591728061576" duration="716000" />
+      <workItem from="1592064746621" duration="62000" />
+      <workItem from="1592244804360" duration="3177000" />
+      <workItem from="1592250492783" duration="5608000" />
+      <workItem from="1592256167087" duration="640000" />
+      <workItem from="1592329529600" duration="761000" />
+      <workItem from="1592488860774" duration="962000" />
+      <workItem from="1603963363522" duration="223000" />
+      <workItem from="1604523554241" duration="4094000" />
+      <workItem from="1604527786202" duration="89000" />
+      <workItem from="1604527895365" duration="91000" />
+      <workItem from="1604594938622" duration="775000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="938" height="284" key="GridCell.Tab.0.bottom" timestamp="1604595716655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604595716655" />
+    <state width="938" height="284" key="GridCell.Tab.0.center" timestamp="1604595716655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="284" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604595716655" />
+    <state width="938" height="284" key="GridCell.Tab.0.left" timestamp="1604595716654">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="284" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604595716654" />
+    <state width="938" height="284" key="GridCell.Tab.0.right" timestamp="1604595716655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="284" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604595716655" />
+  </component>
+</project>
