@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="306759df-477d-4e7a-99e1-edf89e7836aa" name="Default Changelist" comment="" />
+    <list default="true" id="306759df-477d-4e7a-99e1-edf89e7836aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/notepad/notepad/fileMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/notepad/notepad/fileMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/notepad/fileMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/notepad/fileMenu.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cuarK6fQwopLGcUTt27NiDhNth" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -88,29 +96,75 @@
       <workItem from="1604523554241" duration="4094000" />
       <workItem from="1604527786202" duration="89000" />
       <workItem from="1604527895365" duration="91000" />
-      <workItem from="1604594938622" duration="775000" />
+      <workItem from="1604594938622" duration="1430000" />
+      <workItem from="1604674079358" duration="605000" />
+      <workItem from="1604684903530" duration="172000" />
+      <workItem from="1604685191873" duration="155000" />
+      <workItem from="1604685370488" duration="25000" />
+      <workItem from="1606240502481" duration="1175000" />
+      <workItem from="1606293345864" duration="2243000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixed bug in SaveAs() function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed bug in SaveAs() function" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="938" height="284" key="GridCell.Tab.0.bottom" timestamp="1604595716655">
+    <state x="552" y="178" key="#Tomcat_Server" timestamp="1604685071771">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604595716655" />
-    <state width="938" height="284" key="GridCell.Tab.0.center" timestamp="1604595716655">
+    <state x="552" y="178" key="#Tomcat_Server/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604685071771" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604685346152">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="284" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604595716655" />
-    <state width="938" height="284" key="GridCell.Tab.0.left" timestamp="1604595716654">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604685346152" />
+    <state x="585" y="114" width="976" height="893" key="CommitChangelistDialog2" timestamp="1606313195166">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="284" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604595716654" />
-    <state width="938" height="284" key="GridCell.Tab.0.right" timestamp="1604595716655">
+    <state x="585" y="114" width="976" height="893" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606313195166" />
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1606313213347">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="284" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604595716655" />
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606313213347" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1606313213347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606313213347" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1606313213347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606313213347" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1606313213347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606313213347" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1606240944300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606240944300" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1606240944300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606240944300" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1606240944299">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606240944299" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1606240944300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606240944300" />
+    <state x="785" y="231" key="RollbackChangesDialog" timestamp="1606293996523">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="785" y="231" key="RollbackChangesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606293996523" />
+    <state x="342" y="244" key="new project wizard" timestamp="1604685393389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="244" key="new project wizard/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604685393389" />
   </component>
 </project>

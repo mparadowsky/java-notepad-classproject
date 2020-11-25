@@ -98,19 +98,19 @@ public class fileMenu extends menu{
 
     void saveAs() {
         JFileChooser fileChooser = new JFileChooser(path);
-        fileChooser.showSaveDialog(getFrame());
-
-        try {
-            FileWriter writer = new FileWriter(fileChooser.getSelectedFile());
-            getTextArea().write(writer);
-            path = fileChooser.getSelectedFile().getAbsolutePath();
-            getFrame().setTitle(fileChooser.getSelectedFile().getName());
-            status.setText("Saved");
-            isSaved = true;
-        } catch (Exception ex) {
-            ex.printStackTrace();
+       int result = fileChooser.showSaveDialog(getFrame());
+        if(result == JFileChooser.APPROVE_OPTION) {
+            try {
+                FileWriter writer = new FileWriter(fileChooser.getSelectedFile());
+                getTextArea().write(writer);
+                path = fileChooser.getSelectedFile().getAbsolutePath();
+                getFrame().setTitle(fileChooser.getSelectedFile().getName());
+                status.setText("Saved");
+                isSaved = true;
+            } catch (Exception ex) {
+                ex.printStackTrace();
+            }
         }
-
         fileChooser.setVisible(true);
     }
 }
